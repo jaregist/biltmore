@@ -1,0 +1,57 @@
+.navbar-brand {
+  letter-spacing: 3px;
+  color: #b98847;
+  font-size: 2em;
+  font-weight: bold;
+  font-family: 'Cinzel Decorative', cursive;
+}
+
+.navbar-brand:hover, .navbar-brand:active, .navbar-brand:focus {
+  color: #b98847;
+  text-decoration: underline;
+}
+
+.nav-link {
+  font-weight: bold;
+  font-family: 'Cinzel Decorative', cursive;
+}
+
+.nav-link:hover, .nav-link:active, .nav-link:focus {
+  color: #b98847;
+  text-decoration: underline;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Cinzel Decorative', cursive;
+  font-weight: bold;
+}
+
+body {
+  background-color: #F2F3D9;
+}
+
+.bg-gold {
+  background-color: #b98847;
+  color: #303030;
+}
+
+.bg-gray {
+  color: #b98847;
+  background-color: #303030;
+}
+
+.font-gold {
+  color: #b98847;
+}
+
+.font-gray {
+  color: #303030;
+}
+
+main {
+  padding-top: 9em;
+}
+
+.fab, .fas {
+  font-size: 2em;
+}
